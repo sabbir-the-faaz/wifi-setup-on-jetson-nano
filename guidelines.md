@@ -1,21 +1,4 @@
 
-
-  
-
-
-<p>There are a number of WiFi solutions that work with the Jetson Nano out there but we will focus on the <a href="https://www.sparkfun.com/products/15449">Edimax N150 2-in-1 Combo Adapter</a> we sell on its own and is included in our <a href="https://www.sparkfun.com/products/16390">JetBot AI Kit</a>. This adapter is small, low power and relatively cheap, but it does take a little bit of elbow grease to get working from a fresh OS image install or if you are looking to add WiFi once you have completed the DLI Course provided by NVIDIA. No matter, let’s take a look and get your Jetson Nano on the web!</p>
-
-
-
-<div>
-<div class="tile product-tile has_addl_actions big grid retired" data-id="product-15449">
-  <div class="actions-wrap">
-
-          <a class="thumb" href="https://www.sparkfun.com/products/retired/15449">
-        <img src="https://cdn.sparkfun.com/r/500-500/assets/parts/1/4/0/2/5/15449-Edimax_2-in-1_WiFi_and_Bluetooth_4.0_Adapter-02.jpg" alt="Edimax 2-in-1 WiFi and Bluetooth 4.0 Adapter" height="500">
-      </a>
-    
-    
   </div><!--/.actions-wrap-->
 
   <div class="main">
