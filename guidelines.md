@@ -1,54 +1,7 @@
 
 
-  <a href="#" class="fave_btn " title="Add to favorites" data-entity="learn_tutorials" data-entity-id="1177">
-    <span class="fave_yes">
-      <span class="glyphicon glyphicon-heart"></span>
-      <span class="name">Favorited</span>
-    </span>
-    <span class="fave_no">
-      <span class="glyphicon glyphicon-heart-empty"></span>
-      <span class="name">Favorite</span>
-    </span>
-  </a>
-  <span class="fave_count">2</span>
-</span>    <div class="share-link-inline">
-
-  <a class="share-link-toggle" href="#">
-    <span class="share-title">
-      <span class="sfe-icon-share"></span>
-      Share    </span>
-  </a>
-
-  <div class="share-link-inner dialog">
-    Use this URL to share:<br>
-    <input class="form-control input-sm" type="text" value="http://sfe.io/t1177" onclick="$(this).trigger('select');">
-
-    <div class="share-social">
-
-      <a rel="nofollow" onclick="return $(this).sfeutil('track_link',this,'Share','clicked','tumblr');" href="https://www.tumblr.com/share/link?url=http%3A%2F%2Fsfe.io%2Ft1177&amp;name=Adding+WiFi+to+the+NVIDIA+Jetson" title="Share on Tumblr"><span class="sfe-icon-tumblr hidetext"><span>Share on Tumblr</span></span></a>
-
-      <a rel="nofollow" onclick="return $(this).sfeutil('track_link',this,'Share','clicked','reddit');" href="https://www.reddit.com/submit?url=http%3A%2F%2Fsfe.io%2Ft1177" title="Submit to reddit"><span class="sfe-icon-reddit hidetext"><span>Submit to reddi</span></span></a>
-
-    </div>
-
-    </div>
   
-  <div class="share-social">
 
-    <a rel="nofollow" onclick="return $(this).sfeutil('track_link',this,'Share','clicked','twitter');" href="https://twitter.com/intent/tweet?text=Adding+WiFi+to+the+NVIDIA+Jetson&amp;url=http%3A%2F%2Fsfe.io%2Ft1177&amp;via=sparkfun" title="Share on Twitter"><span class="sfe-icon-twitter hidetext"><span>Share on Twitter</span></span></a>
-
-    <a rel="nofollow" onclick="return $(this).sfeutil('track_link',this,'Share','clicked','facebook');" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fsfe.io%2Ft1177&amp;t=Adding+WiFi+to+the+NVIDIA+Jetson" title="Share on Facebook"><span class="sfe-icon-facebook-nobox hidetext"><span>Share on Facebook</span></span></a>
-
-          <a rel="nofollow" onclick="return $(this).sfeutil('track_link',this,'Share','clicked','pinterest');" href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fsfe.io%2Ft1177&amp;media=https%3A%2F%2Fcdn.sparkfun.com%2F%2Fr%2F500-1000%2Fassets%2Flearn_tutorials%2F1%2F1%2F7%2F7%2F20200421_095846.jpg&amp;description=Adding+WiFi+to+the+NVIDIA+Jetson" title="Pin It"><span class="sfe-icon-pinterest hidetext"><span>Pin It</span></span></a>
-    
-  </div>
-
-  
-</div>
-
-          <div class="section tutorial-page">
-        <h2 id="introduction">Introduction</h2>
-        <p>Nearly every computer needs an internet connection these days, and more and more of those connections are via WiFi to keep things from being tethered to a router switch or the wall. A wireless internet connection is particularly helpful for single board computers that many applications need to be mobile. The <a href="https://www.sparkfun.com/products/16271">NVIDIA Jetson Nano Developer Kit</a> is no exception to that trend in terms of keeping the board as mobile as possible, but still maintaining access to the internet for software updates, network requests and many other applications. Unfortunately, it doesn't come with WiFi built in so we need to add it ourselves.</p>
 
 <p>There are a number of WiFi solutions that work with the Jetson Nano out there but we will focus on the <a href="https://www.sparkfun.com/products/15449">Edimax N150 2-in-1 Combo Adapter</a> we sell on its own and is included in our <a href="https://www.sparkfun.com/products/16390">JetBot AI Kit</a>. This adapter is small, low power and relatively cheap, but it does take a little bit of elbow grease to get working from a fresh OS image install or if you are looking to add WiFi once you have completed the DLI Course provided by NVIDIA. No matter, let’s take a look and get your Jetson Nano on the web!</p>
 
