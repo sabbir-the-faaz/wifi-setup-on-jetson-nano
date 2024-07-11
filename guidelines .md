@@ -269,25 +269,6 @@
     Use this URL to share:<br>
     <input class="form-control input-sm" type="text" value="http://sfe.io/t1177" onclick="$(this).trigger('select');">
 
-    <div class="share-social">
-
-      <a rel="nofollow" onclick="return $(this).sfeutil('track_link',this,'Share','clicked','tumblr');" href="https://www.tumblr.com/share/link?url=http%3A%2F%2Fsfe.io%2Ft1177&amp;name=Adding+WiFi+to+the+NVIDIA+Jetson" title="Share on Tumblr"><span class="sfe-icon-tumblr hidetext"><span>Share on Tumblr</span></span></a>
-
-      <a rel="nofollow" onclick="return $(this).sfeutil('track_link',this,'Share','clicked','reddit');" href="https://www.reddit.com/submit?url=http%3A%2F%2Fsfe.io%2Ft1177" title="Submit to reddit"><span class="sfe-icon-reddit hidetext"><span>Submit to reddi</span></span></a>
-
-    </div>
-
-    </div>
-  
-  <div class="share-social">
-
-    <a rel="nofollow" onclick="return $(this).sfeutil('track_link',this,'Share','clicked','twitter');" href="https://twitter.com/intent/tweet?text=Adding+WiFi+to+the+NVIDIA+Jetson&amp;url=http%3A%2F%2Fsfe.io%2Ft1177&amp;via=sparkfun" title="Share on Twitter"><span class="sfe-icon-twitter hidetext"><span>Share on Twitter</span></span></a>
-
-    <a rel="nofollow" onclick="return $(this).sfeutil('track_link',this,'Share','clicked','facebook');" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fsfe.io%2Ft1177&amp;t=Adding+WiFi+to+the+NVIDIA+Jetson" title="Share on Facebook"><span class="sfe-icon-facebook-nobox hidetext"><span>Share on Facebook</span></span></a>
-
-          <a rel="nofollow" onclick="return $(this).sfeutil('track_link',this,'Share','clicked','pinterest');" href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fsfe.io%2Ft1177&amp;media=https%3A%2F%2Fcdn.sparkfun.com%2F%2Fr%2F500-1000%2Fassets%2Flearn_tutorials%2F1%2F1%2F7%2F7%2F20200421_095846.jpg&amp;description=Adding+WiFi+to+the+NVIDIA+Jetson" title="Pin It"><span class="sfe-icon-pinterest hidetext"><span>Pin It</span></span></a>
-    
-  </div>
 
   
 </div>
