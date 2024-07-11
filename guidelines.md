@@ -1,13 +1,6 @@
 
     
-  </div>
 
-  
-  
-      <strong class="retired">Retired</strong>
-  
-      <div class="addl_actions">
-      <span class="fave_widget simple">
   <a href="#" class="fave_btn " title="Add to favorites" data-entity="products" data-entity-id="15449">
     <span class="fave_yes">
       <span class="glyphicon glyphicon-heart"></span>
