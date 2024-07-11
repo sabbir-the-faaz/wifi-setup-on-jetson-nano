@@ -1,25 +1,4 @@
 
-  </div><!--/.actions-wrap-->
-
-  <div class="main">
-
-    
-    <h3 class="title">
-              <a href="https://www.sparkfun.com/products/retired/15449">
-          <span>Edimax 2-in-1 WiFi and Bluetooth 4.0 Adapter</span>
-        </a>
-          </h3>
-
-    <span class="bubbles" style="display:none">
-      
-  <a data-toggle="notify" href="https://learn.sparkfun.com/static/bubbles/" title="Retired"><span class="sfe-icon-stock-retired"><span class="visuallyhidden">Retired</span></span></a>
-    </span>
-
-    <span class="sku">
-      WRL-15449    </span>
-
-          <p class="description" style="display:none">
-        The Edimax 2-in-1 WiFi and Bluetooth 4.0 Adapter (EW-7611ULB) is a nano-sized USB Wi-Fi adapter with Bluetooth 4.0 that suppo…      </p>
     
   </div>
 
