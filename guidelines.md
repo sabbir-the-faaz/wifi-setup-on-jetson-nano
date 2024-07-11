@@ -1,13 +1,5 @@
 
-yyyyyy
 
-<div class="col-sm-8" id="sections">
-
-    <div class="contributors">
-                      Contributors:
-                <span class="contributor-alias"><img src="https://static.sparkfun.com/avatar/bb21dc7d7c75175fd6edb50cda25d83f?d=retro&amp;s=20&amp;r=pg"> D___Run___</span>          </div>
-
-    <span class="fave_widget verbose">
   <a href="#" class="fave_btn " title="Add to favorites" data-entity="learn_tutorials" data-entity-id="1177">
     <span class="fave_yes">
       <span class="glyphicon glyphicon-heart"></span>
